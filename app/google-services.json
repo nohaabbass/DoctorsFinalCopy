@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "464060268660",
+    "firebase_url": "https://fadfadly-user.firebaseio.com",
+    "project_id": "fadfadly-user",
+    "storage_bucket": "fadfadly-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464060268660:android:2809ebc47047f680da5121",
+        "android_client_info": {
+          "package_name": "com.example.fadfadly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464060268660-g37iucu2dmsigcmufc5d0ecf9lbcmfqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IH7A_xw5YZ97OsfSbULB3g5q7G_bVYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464060268660-g37iucu2dmsigcmufc5d0ecf9lbcmfqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464060268660:android:71c668220ccc4d83da5121",
+        "android_client_info": {
+          "package_name": "com.mina.doctors_fadfadly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464060268660-g37iucu2dmsigcmufc5d0ecf9lbcmfqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IH7A_xw5YZ97OsfSbULB3g5q7G_bVYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464060268660-g37iucu2dmsigcmufc5d0ecf9lbcmfqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
